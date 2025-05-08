@@ -320,7 +320,7 @@ section .button button:hover {
 }
 
 .skills .skills-details .experience {
-  display: flex;
+  display: inline-block;
   align-items: center;
   margin: 0 10px;
 }
